@@ -9,7 +9,7 @@
 <p>
 	The internet's reaction to this was chaotic. Misinformation rapidly spread as people <a
 		href="https://time.com/7201952/luigi-mangione-internet-myths-essay/"
-		>cherry picked pieces of Luigi Mangione</a
+		>cherry-picked pieces of Luigi Mangione</a
 	> to try and make sense of him; a person with motives that seemingly didn't fit into any coherent ideology.
 </p>
 
@@ -39,7 +39,7 @@
 	<a
 		href="https://www.politico.com/newsletters/politico-nightly/2024/12/12/the-political-lessons-of-luigi-mangiones-media-diet-00194163"
 		>Luigi Mangione is hard to pin down politically.</a
-	> But perhaps this is what makes him so appealling to many?
+	> But perhaps this is what makes him so appealing to many?
 </p>
 
 <p>
@@ -48,7 +48,7 @@
 	follow.
 </p>
 
-<p>The aftermath of the assasination of Brian Thompson has been a time when it became common (and even socially popular) to openly and loudly disagree with the ethics we've been taught about something as seemingly universally shunned as murder.</p>
+<p>The aftermath of the assassination of Brian Thompson has been a time when it became common (and even socially popular) to openly and loudly disagree with the ethics we've been taught about something as seemingly universally shunned as murder.</p>
 
 <p>
 	Our media diets have an immense impact on our view of the world. We live in a highly polarised
