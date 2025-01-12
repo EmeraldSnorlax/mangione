@@ -7,3 +7,8 @@
 <main class="mx-auto max-w-prose px-4">
 	{@render children()}
 </main>
+
+<svelte:head>
+	<meta name="darkreader-lock">
+</svelte:head>
+

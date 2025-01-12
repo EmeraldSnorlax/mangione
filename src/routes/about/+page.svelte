@@ -1,3 +1,7 @@
+<svelte:head>
+  <title>About</title>
+</svelte:head>
+
 <a href="/" class="mt-8 block text-xl lg:mt-36">Back</a>
 
 <h1>About</h1>
