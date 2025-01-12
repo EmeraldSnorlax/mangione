@@ -59,7 +59,7 @@
 <hr>
 
 <p class="pb-32">
-	This piece is a literal filtering of Mangione's manifesto through publications <strong>you</strong> read, courtesy of your browser history.
+	This piece is a literal filtering of Mangione's manifesto through the publications <strong>you</strong> have read, courtesy of your browser history.
 </p>
 
 <style>
