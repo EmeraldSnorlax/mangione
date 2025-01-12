@@ -6,4 +6,12 @@
   html {
     font-family: "Libre Baskerville", serif;
   }
+
+  h1 {
+    @apply my-4 w-full text-4xl font-bold
+  }
+
+  a {
+    @apply underline
+  }
 }

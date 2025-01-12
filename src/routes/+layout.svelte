@@ -4,4 +4,6 @@
 	import '@fontsource/libre-baskerville';
 </script>
 
-{@render children()}
+<main class="mx-auto max-w-prose px-4">
+	{@render children()}
+</main>
