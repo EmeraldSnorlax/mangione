@@ -77,7 +77,7 @@
 	To those who feared class consciousness, Mangione is a domestic terrorist. <a
 		href="https://www.kenklippenstein.com/p/new-crisis-hotline-for-ceos"
 		>Worthy of considering a 'threatened CEO hotline' for.</a
-	> The media was a tool to achieve this goal.
+	> The media was a tool to push this narrative.
 </p>
 
 <p>
